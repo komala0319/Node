@@ -1,0 +1,20 @@
+Line 1:Dummy data for testing Stream.
+Line 2:Dummy data for testing Stream.
+Line 3:Dummy data for testing Stream.
+Line 4:Dummy data for testing Stream.
+Line 5:Dummy data for testing Stream.
+Line 6:Dummy data for testing Stream.
+Line 7:Dummy data for testing Stream.
+Line 8:Dummy data for testing Stream.
+Line 9:Dummy data for testing Stream.
+Line 10:Dummy data for testing Stream.
+Append1:Dummy data for testing Stream.
+Append2:Dummy data for testing Stream.
+Append3:Dummy data for testing Stream.
+Append4:Dummy data for testing Stream.
+Append5:Dummy data for testing Stream.
+Append6:Dummy data for testing Stream.
+Append7:Dummy data for testing Stream.
+Append8:Dummy data for testing Stream.
+Append9:Dummy data for testing Stream.
+Append10:Dummy data for testing Stream.
